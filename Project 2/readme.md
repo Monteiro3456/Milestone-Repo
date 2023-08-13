@@ -1,7 +1,7 @@
 
 The Movie Info Web App is a simple JavaScript application that allows users to retrieve and display movie information from the OMDB API. The app fetches movie data for a predefined list of movies and provides a search functionality to find specific movies by title.
 
-Movie Info Web App Screenshot
+
 
 Features
 Fetches movie data from the OMDB API.
