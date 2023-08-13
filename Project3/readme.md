@@ -1,6 +1,5 @@
 The Task Management App is a simple React application that allows users to manage their tasks. Users can add tasks, mark them as completed or pending, and remove tasks from the list.
 
-Task Management App Screenshot
 
 Features
 Add tasks with unique IDs and statuses (completed/pending).
